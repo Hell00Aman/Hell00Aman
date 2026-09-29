@@ -1,24 +1,284 @@
-<h1 align="center">Hi 👋, I'm AMAN RAJ</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hell00aman&label=Profile%20views&color=0e75b6&style=flat" alt="hell00aman" /> </p>
+<!-- 🌈 ANIMATED RAINBOW HEADER -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hell00aman" alt="hell00aman" /></a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:fb5607,50:ffbe0b,75:8338ec,100:3a86ff&height=220&section=header&text=AMAN%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=✨%20Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Dream%20Builder%20✨&descAlignY=62&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
-- 🌱 I’m currently learning **JS,HTML,CSS,DSA**
+<!-- ⌨️ ANIMATED TYPING SVG -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hell00Aman/Hell00Aman/blob/main/RE](https://github.com/Hell00Aman/Hell00Aman/blob/main/RE)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=FF006E&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hey%2C+I'm+Aman+Raj!;%F0%9F%9A%80+Passionate+Software+Developer;%F0%9F%8E%AF+Mastering+C%2B%2B+%7C+Java+%7C+Python;%F0%9F%92%A1+Learning+DSA+%7C+Web+Development;%F0%9F%A4%96+Exploring+AI+%7C+LLM+%7C+GenAI;%E2%9C%A8+Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
 
-- 📫 How to reach me **amantk2205@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-raj-a7863437a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-raj-a7863437a/" height="30" width="40" /></a>
-<a href="https://instagram.com/amanthakur7295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanthakur7295" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@amantk2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amantk2205" height="30" width="40" /></a>
-</p>
+<!-- 🔥 PROFILE BADGES -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/🔥-Open%20To%20Work-ff006e?style=for-the-badge&labelColor=1a0010" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Hell00Aman&style=for-the-badge&color=fb5607&label=👁️+PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Hell00Aman?style=for-the-badge&color=ffbe0b&labelColor=2b1d00&label=⭐+FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍-India%20🇮🇳-8338ec?style=for-the-badge&labelColor=1a0033" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hell00aman&show_icons=true&locale=en&layout=compact" alt="hell00aman" /></p>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">   About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+```javascript
+🌈 const aman = {
+
+  👤  name         : "Aman Raj",
+  📍  from         : "India 🇮🇳",
+  🎓  education    : "B.Tech Computer Science",
+  🏅  certification: "AWS Certified AI Practitioner",
+  💻  learning     : ["C++", "DSA", "Web Development", "SQL"],
+  🤖  exploring    : ["LLM", "vLLM", "GenAI", "Neural Networks"],
+  🛠️  skills       : ["Java", "Python", "Linux", "Git", "GitHub"],
+  🌱  growing      : "Software Developer",
+  🎯  goal         : "Build. Learn. Create. Repeat. 🚀",
+  ☕  fuel         : "Coffee + Code = Magic",
+  😄  funFact      : "I debug until it works!",
+  📫  reach        : "amantk2205@gmail.com"
+
+};
+```
+
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+### ☁️ AWS Certified AI Practitioner
+
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+**Certified in foundational Artificial Intelligence, Machine Learning & Generative AI concepts on AWS.** 🤖☁️
+
+<br/>
+
+![AI](https://img.shields.io/badge/AI-Foundation-ff006e?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-Foundation-8338ec?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative%20AI-Certified-3a86ff?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Certified-fb5607?style=for-the-badge)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hell00Aman&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎨 Tech Stack — My Colorful Arsenal
+
+<div align="center">
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+### 🤖 AI & Machine Learning
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF006E?style=for-the-badge\&logo=openai\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8338EC?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-3A86FF?style=for-the-badge\&logo=google\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FFBE0B?style=for-the-badge\&logo=ai\&logoColor=black)
+
+### 🧰 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 📚 Currently Learning
+
+![DSA](https://img.shields.io/badge/DSA-🧩%20Algorithms-ff006e?style=for-the-badge\&labelColor=1a0010)
+![LeetCode](https://img.shields.io/badge/Problem%20Solving-🔥%20LeetCode-fb5607?style=for-the-badge\&labelColor=2b0f00)
+![Full Stack](https://img.shields.io/badge/Goal-🌐%20Full%20Stack-8338ec?style=for-the-badge\&labelColor=1a0033)
+![LLM](https://img.shields.io/badge/AI-🤖%20LLM-3a86ff?style=for-the-badge\&labelColor=00152b)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Stats — By The Numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hell00Aman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff006e&icon_color=ffbe0b&text_color=ffffff&ring_color=8338ec" height="180em"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hell00Aman&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff006e&text_color=ffffff" height="180em"/>
+
+<br/><br/>
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hell00Aman&theme=radical&hide_border=true&background=0d0d0d&stroke=ff006e&ring=ffbe0b&fire=fb5607&currStreakLabel=8338ec&sideLabels=3a86ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hell00Aman&bg_color=0d0d0d&color=ffbe0b&line=ff006e&point=fb5607&area_color=8338ec&area=true&hide_border=true&custom_title=🌈%20Aman's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hell00Aman/Hell00Aman/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hell00Aman/Hell00Aman/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Hell00Aman/Hell00Aman/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 2026 Goals — Level Up!
+
+<div align="center">
+
+| 🎯 Goal                          | 📊 Status      | 🚀 Focus                                                                 |
+| -------------------------------- | -------------- | ------------------------------------------------------------------------ |
+| 💡 Master DSA                    | 🔥 In Progress | ![High](https://img.shields.io/badge/-HIGH-ff006e?style=flat-square)     |
+| 🌐 Full Stack Development        | 🚀 In Progress | ![High](https://img.shields.io/badge/-HIGH-fb5607?style=flat-square)     |
+| 🧠 Learn LLM & GenAI             | 🔥 In Progress | ![High](https://img.shields.io/badge/-HIGH-8338ec?style=flat-square)     |
+| 🤖 Explore vLLM & AI             | 🌱 Learning    | ![Medium](https://img.shields.io/badge/-MEDIUM-ffbe0b?style=flat-square) |
+| 🗄️ Improve SQL                  | 🌱 Learning    | ![Medium](https://img.shields.io/badge/-MEDIUM-3a86ff?style=flat-square) |
+| 🏗️ Build Real-World Projects    | 🚀 Active      | ![High](https://img.shields.io/badge/-HIGH-ff006e?style=flat-square)     |
+| 📄 Research & Technical Learning | 🌱 In Progress | ![Medium](https://img.shields.io/badge/-MEDIUM-fb5607?style=flat-square) |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌐 Let's Connect & Collab!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aman-raj-a7863437a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
+</a>
+
+ 
+
+<a href="https://instagram.com/amanthakur7295" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a0029" />
+</a>
+
+ 
+
+<a href="https://www.hackerrank.com/@amantk2205" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d6b36" />
+</a>
+
+ 
+
+<a href="mailto:amantk2205@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6b1008" />
+</a>
+
+ 
+
+<a href="https://github.com/Hell00Aman" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,25:fb5607,50:ffbe0b,75:8338ec,100:3a86ff&height=4&section=header" width="80%"/>
+
+<br/>
+
+**🌈 Always open to collaborating on exciting projects! Drop a ⭐ if you like my work!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,25:fb5607,50:ffbe0b,75:8338ec,100:3a86ff&height=4&section=header" width="80%"/>
+
+</div>
+
+<br/>
+
+<!-- 🌈 ANIMATED RAINBOW FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,25:8338ec,50:ffbe0b,75:fb5607,100:ff006e&height=140&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+<sub>🌈 <i>Crafted with 💖, ☕, and lots of <code>console.log()</code> by <b>Aman Raj</b></i> 🌈</sub>
+
+</div>
