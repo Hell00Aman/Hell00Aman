@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">   About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">   About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
@@ -62,9 +62,7 @@
 ### ☁️ AWS Certified AI Practitioner
 
 <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank">
-
 <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
 </a>
 
 <br/><br/>
@@ -88,6 +86,7 @@
 
 <div align="center">
 
+<!-- If this is ever blank, self-host: fork ryo-ma/github-profile-trophy, deploy on Vercel, and replace the domain below -->
 <img src="https://github-profile-trophy.vercel.app/?username=Hell00Aman&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
 
 </div>
@@ -102,42 +101,42 @@
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🤖 AI & Machine Learning
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF006E?style=for-the-badge\&logo=openai\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8338EC?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-3A86FF?style=for-the-badge\&logo=google\&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FFBE0B?style=for-the-badge\&logo=ai\&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF006E?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8338EC?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-3A86FF?style=for-the-badge&logo=google&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FFBE0B?style=for-the-badge&logo=ai&logoColor=black)
 
 ### 🧰 Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🗄️ Database
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Currently Learning
 
-![DSA](https://img.shields.io/badge/DSA-🧩%20Algorithms-ff006e?style=for-the-badge\&labelColor=1a0010)
-![LeetCode](https://img.shields.io/badge/Problem%20Solving-🔥%20LeetCode-fb5607?style=for-the-badge\&labelColor=2b0f00)
-![Full Stack](https://img.shields.io/badge/Goal-🌐%20Full%20Stack-8338ec?style=for-the-badge\&labelColor=1a0033)
-![LLM](https://img.shields.io/badge/AI-🤖%20LLM-3a86ff?style=for-the-badge\&labelColor=00152b)
+![DSA](https://img.shields.io/badge/DSA-🧩%20Algorithms-ff006e?style=for-the-badge&labelColor=1a0010)
+![LeetCode](https://img.shields.io/badge/Problem%20Solving-🔥%20LeetCode-fb5607?style=for-the-badge&labelColor=2b0f00)
+![Full Stack](https://img.shields.io/badge/Goal-🌐%20Full%20Stack-8338ec?style=for-the-badge&labelColor=1a0033)
+![LLM](https://img.shields.io/badge/AI-🤖%20LLM-3a86ff?style=for-the-badge&labelColor=00152b)
 
 </div>
 
@@ -149,15 +148,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hell00Aman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff006e&icon_color=ffbe0b&text_color=ffffff&ring_color=8338ec" height="180em"/>
-
-  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hell00Aman&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff006e&text_color=ffffff" height="180em"/>
+<!-- Generated by .github/workflows/metrics.yml (lives in your repo, never goes down) -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="95%" />
 
 <br/><br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hell00Aman&theme=radical&hide_border=true&background=0d0d0d&stroke=ff006e&ring=ffbe0b&fire=fb5607&currStreakLabel=8338ec&sideLabels=3a86ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+<!-- Streak stats: old herokuapp.com host is dead, demolab is the working one -->
+<img width="68%" src="https://streak-stats.demolab.com/?user=Hell00Aman&theme=radical&hide_border=true&background=0d0d0d&stroke=ff006e&ring=ffbe0b&fire=fb5607&currStreakLabel=8338ec&sideLabels=3a86ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -181,6 +178,7 @@
 
 <div align="center">
 
+<!-- Generated by .github/workflows/snake.yml into the "output" branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hell00Aman/Hell00Aman/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hell00Aman/Hell00Aman/output/github-contribution-grid-snake.svg"/>
@@ -232,27 +230,19 @@
 <a href="https://www.linkedin.com/in/aman-raj-a7863437a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://instagram.com/amanthakur7295" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a0029" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://www.hackerrank.com/@amantk2205" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d6b36" />
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:amantk2205@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6b1008" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://github.com/Hell00Aman" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
