@@ -6,7 +6,7 @@
 <text x="65.0" y="150" text-anchor="middle" font-size="13" fill="#b0b0b0">Stars</text>
 <g transform="translate(175.0,22)" fill="#ff006e" stroke="#ff006e" stroke-width="2"><path d="M10 4h20v10c0 8-4 13-10 14c-6-1-10-6-10-14z" stroke="none"/><path d="M10 8H4c0 6 3 10 7 11M30 8h6c0 6-3 10-7 11" fill="none"/><rect x="18" y="28" width="4" height="7" stroke="none"/><rect x="12" y="35" width="16" height="4" rx="1" stroke="none"/></g>
 <text x="195.0" y="92" text-anchor="middle" font-size="22" font-weight="700" fill="#ff006e">A</text>
-<text x="195.0" y="125" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">558</text>
+<text x="195.0" y="125" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">560</text>
 <text x="195.0" y="150" text-anchor="middle" font-size="13" fill="#b0b0b0">Commits</text>
 <g transform="translate(305.0,22)" fill="#3a86ff" stroke="#3a86ff" stroke-width="2"><path d="M10 4h20v10c0 8-4 13-10 14c-6-1-10-6-10-14z" stroke="none"/><path d="M10 8H4c0 6 3 10 7 11M30 8h6c0 6-3 10-7 11" fill="none"/><rect x="18" y="28" width="4" height="7" stroke="none"/><rect x="12" y="35" width="16" height="4" rx="1" stroke="none"/></g>
 <text x="325.0" y="92" text-anchor="middle" font-size="22" font-weight="700" fill="#3a86ff">C</text>
