@@ -154,7 +154,7 @@
 <br/><br/>
 
 <!-- Streak stats: old herokuapp.com host is dead, demolab is the working one -->
-<img width="68%" src="https://streak-stats.demolab.com/?user=Hell00Aman&theme=radical&hide_border=true&background=0d0d0d&stroke=ff006e&ring=ffbe0b&fire=fb5607&currStreakLabel=8338ec&sideLabels=3a86ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="68%" src="https://streak-stats.demolab.com/?user=Hell00Aman&theme=radical&hide_border=true&background=0d0d0d&stroke=ff006e&ring=ffbe0b&fire=fb5607&currStreakLabel=8338ec&sideLabels=3a86ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&v=2" />
 
 </div>
 
